@@ -1,0 +1,12 @@
+﻿setName,xAxisTitle,yAxisTitle,plotTitle,xData,yData
+random,Time [sec],Power [W],Power over WLTC,0,0
+,,,,1,39
+,,,,2,12
+,,,,3,15
+,,,,4,20
+,,,,5,25
+,,,,6,30
+,,,,7,48
+,,,,8,50
+,,,,9,60
+,,,,10,45
